@@ -1,0 +1,2 @@
+Prefix plugins/CV/example/
+Plugin CV inputfile none outputfile output.rds
